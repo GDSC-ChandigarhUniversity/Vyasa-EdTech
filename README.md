@@ -19,6 +19,8 @@ Education is rapidly gravitating towards more virtual ,distributive sector that 
 Our product will create a bridge among online and off-line median which will transmit the fetched data to multiple users through Wi-Fi direct at a time.
 The product will allow mobile phones to connect with bridge adapter without internet connection through Wifi within a radius of 100 metres.
 
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/67583008/190897414-63a14d7b-1426-45c3-8b35-78b7895a7837.png">
+
 ● Mentors will send data to Organisations.
 
 ● They will further filter and classify the data that is it reliable or not for posting.
