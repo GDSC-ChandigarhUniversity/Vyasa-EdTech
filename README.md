@@ -1,4 +1,4 @@
-EDCAT - DEVICE FOR EFFIECIENT STUDY AT RURALS
+VYASA - DEVICE FOR EFFIECIENT STUDY AT RURALS
 
 Abstract :
 The deterioration of India's educational system has been a major source of concern for several decades, yet no significant improvement in rural areas has been observed. The primary issues in rural areas include, absence of appropriate schools and access to excellent education, lack of bandwidth and other connectivity issues. Thanks to technological improvements, access to high- quality education is no longer a luxury for people living in rural areas, thanks to the rise of learning apps. Our simple yet efficient solution comes with powerful features and contains all necessary educational content:
